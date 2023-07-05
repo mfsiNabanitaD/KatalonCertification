@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Submit a request</name>
+   <tag></tag>
+   <elementGuidId>2d27f768-14b4-4c82-8ceb-43654b3b8666</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='user-nav']/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.submit-a-request</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>352f57c8-326d-4e8d-9fcf-66059630da87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>submit-a-request</value>
+      <webElementGuid>2d8a855d-c8a5-4f8c-bc9d-71fb0fa834f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/hc/en-us/requests/new</value>
+      <webElementGuid>2b3ad157-65b9-4e33-8ad7-8a53c2301156</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit a request</value>
+      <webElementGuid>66a9daed-9b67-42c6-b744-6abe09886e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;user-nav&quot;)/ul[@class=&quot;user-nav-list&quot;]/li[2]/a[@class=&quot;submit-a-request&quot;]</value>
+      <webElementGuid>25564f63-321b-4ae5-8fb7-647213efe568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='user-nav']/ul/li[2]/a</value>
+      <webElementGuid>5bd281a4-dc68-4603-8eaf-efe496e35026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Submit a request')]</value>
+      <webElementGuid>090dbc8b-a80d-44a3-bbb5-da62efbcf705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to main content'])[1]/following::a[2]</value>
+      <webElementGuid>79db9667-92f7-45c5-a658-b7c8060dd988</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[1]/preceding::a[1]</value>
+      <webElementGuid>7f1e32f1-036f-493b-a15f-1bb6666474f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in'])[2]/preceding::a[2]</value>
+      <webElementGuid>f85c0cbe-30dd-4ef8-8cf9-7d590977f4eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit a request']/parent::*</value>
+      <webElementGuid>6d5b1b7a-184f-4eeb-ac8e-fb340dec9040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/hc/en-us/requests/new')]</value>
+      <webElementGuid>4da6d1f5-81b2-428c-8c75-be5e11637d2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>6a7fcdb9-2a8b-4c92-b29e-d3e5c9d53e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/hc/en-us/requests/new' and (text() = 'Submit a request' or . = 'Submit a request')]</value>
+      <webElementGuid>917f69a7-daa2-4aef-a38f-d243e8d6ac36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

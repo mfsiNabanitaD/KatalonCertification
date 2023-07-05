@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC6_verifyLoginIsSuccessful</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff7fe75e-7670-43b8-91ed-5b04d42774a3</testCaseGuid>
+</TestCaseEntity>

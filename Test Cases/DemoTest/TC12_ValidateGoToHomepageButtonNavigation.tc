@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC12_ValidateGoToHomepageButtonNavigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac4e85b8-9200-4fd0-8dfc-dbffc648980e</testCaseGuid>
+</TestCaseEntity>
